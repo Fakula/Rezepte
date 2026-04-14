@@ -1,10 +1,10 @@
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
-
 **License: Creative Commons Attribution‑ShareAlike 4.0 International (CC‑BY‑SA 4.0)**  
 Commercial use allowed. Derivatives must be published under the same license.
 
-**Suggestion: If you use this recipe commercially (for example in an ice cream shop), a simple and practical way to provide attribution is to include a small QR code in your menu that links back to this repository.
-
-TL;DR :Have fun with it, sell it as much as you want, but give credit and keep derivatives under the same license.  
+**TL;DR:** Have fun with it, sell it as much as you want, but give credit and keep derivatives under the same license.  
 Feedback, improvements, and pull requests are very welcome.
+
+**Suggestion:**  
+If you use this recipe commercially (for example in an ice cream shop), a simple and practical way to provide attribution is to include a small QR code in your menu that links back to this repository.
